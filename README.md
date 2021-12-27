@@ -16,7 +16,7 @@ The purpose of this project is to run multiple tests to determine which is the m
 
 ### SMOTE model
 
-![SMOTE Percent](resources/SmoteDetails.png)
+![SMOTE Percent](resources/SmotePercent.png)
 ![SMOTE Details](resources/SMOTEdetails.png)
 
 * The SMOTE model has an accuracy score of 63%.
