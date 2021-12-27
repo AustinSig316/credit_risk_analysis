@@ -26,8 +26,8 @@ The purpose of this project is to run multiple tests to determine which is the m
 
 ### ClusterCentroids model
 
-![Cluster Centroids Percent](resources/Clustercentroidpercent.png)
-![Cluster Centroids Details](resources/Clustercentroiddetails.png)
+![Cluster Centroids Percent](resources/Clustercentroidspercent.png)
+![Cluster Centroids Details](resources/Clustercentroidsdetails.png)
 
 * The random over sampler model has an accuracy score of 51%, much lower than the other two models.
 * This model has a precision score of 1% with a sensitivity of 59% when it comes to high risk loans. This differs as well.
